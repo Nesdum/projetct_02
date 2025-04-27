@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ACER/OneDrive/Documentos/Analitica%20de%20datos/1.%20Maestria/2.%20Electiva%20II%20Mlops/Mlops/projetct_02/notebooks/mlruns/0/ff282415b4a54926a863842d34d8f498/artifacts
+end_time: 1745777408502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff282415b4a54926a863842d34d8f498
+run_name: polite-gull-670
+run_uuid: ff282415b4a54926a863842d34d8f498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745777397787
+status: 3
+tags: []
+user_id: ACER
