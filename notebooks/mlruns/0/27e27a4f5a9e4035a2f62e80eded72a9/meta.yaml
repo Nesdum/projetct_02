@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ACER/OneDrive/Documentos/Analitica%20de%20datos/1.%20Maestria/2.%20Electiva%20II%20Mlops/Mlops/projetct_02/notebooks/mlruns/0/27e27a4f5a9e4035a2f62e80eded72a9/artifacts
+end_time: 1745969122276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27e27a4f5a9e4035a2f62e80eded72a9
+run_name: invincible-pig-92
+run_uuid: 27e27a4f5a9e4035a2f62e80eded72a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745969113701
+status: 3
+tags: []
+user_id: ACER

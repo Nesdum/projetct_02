@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ACER/OneDrive/Documentos/Analitica%20de%20datos/1.%20Maestria/2.%20Electiva%20II%20Mlops/Mlops/projetct_02/notebooks/mlruns/0/d6a2bed160944451b3c6146513723dbc/artifacts
+end_time: 1746054732962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6a2bed160944451b3c6146513723dbc
+run_name: bedecked-wasp-514
+run_uuid: d6a2bed160944451b3c6146513723dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746054726447
+status: 3
+tags: []
+user_id: ACER

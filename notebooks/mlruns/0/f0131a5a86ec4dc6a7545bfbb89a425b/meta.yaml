@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ACER/OneDrive/Documentos/Analitica%20de%20datos/1.%20Maestria/2.%20Electiva%20II%20Mlops/Mlops/projetct_02/notebooks/mlruns/0/f0131a5a86ec4dc6a7545bfbb89a425b/artifacts
+end_time: 1745964340624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0131a5a86ec4dc6a7545bfbb89a425b
+run_name: sincere-goose-838
+run_uuid: f0131a5a86ec4dc6a7545bfbb89a425b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745964329003
+status: 3
+tags: []
+user_id: ACER

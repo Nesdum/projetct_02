@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ACER/OneDrive/Documentos/Analitica%20de%20datos/1.%20Maestria/2.%20Electiva%20II%20Mlops/Mlops/projetct_02/notebooks/mlruns/0/50685719ad4e4763a33d4bcf39c02603/artifacts
+end_time: 1746054578669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50685719ad4e4763a33d4bcf39c02603
+run_name: casual-ray-625
+run_uuid: 50685719ad4e4763a33d4bcf39c02603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746054554833
+status: 3
+tags: []
+user_id: ACER

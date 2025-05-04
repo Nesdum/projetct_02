@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746054779218
+current_stage: Production
+description: null
+last_updated_timestamp: 1746054854750
+name: BikePredictionModel
+run_id: f9411e4a28b34eb9bc337871bcc81de8
+run_link: null
+source: file:///c:/Users/ACER/OneDrive/Documentos/Analitica%20de%20datos/1.%20Maestria/2.%20Electiva%20II%20Mlops/Mlops/projetct_02/notebooks/mlruns/0/f9411e4a28b34eb9bc337871bcc81de8/artifacts/bike_prediction_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ACER/OneDrive/Documentos/Analitica%20de%20datos/1.%20Maestria/2.%20Electiva%20II%20Mlops/Mlops/projetct_02/notebooks/mlruns/0/f9411e4a28b34eb9bc337871bcc81de8/artifacts/bike_prediction_model
+user_id: null
+version: 1
